@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "./predict.py",
+      "src": "./venv/predict.py",
       "use": "@vercel/python"
     }
   ],
